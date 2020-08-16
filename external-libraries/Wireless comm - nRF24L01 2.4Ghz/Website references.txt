@@ -1,0 +1,2 @@
+http://shanes.net/another-nrf24l01-sketch-string-sendreceive/
+http://playground.arduino.cc/InterfacingWithHardware/Nrf2401
